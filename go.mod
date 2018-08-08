@@ -9,9 +9,11 @@ require (
 	github.com/docker/go-units v0.3.3 // indirect
 	github.com/pkg/errors v0.8.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/spf13/afero v1.1.1
 	github.com/stevvooe/resumable v0.0.0-20170302213456-2aaf90b2ceea // indirect
 	github.com/stretchr/testify v1.2.2 // indirect
 	golang.org/x/net v0.0.0-20180801234040-f4c29de78a2a // indirect
 	golang.org/x/sys v0.0.0-20180806192500-2be389f392cd // indirect
+	golang.org/x/text v0.3.0 // indirect
 	gopkg.in/yaml.v2 v2.2.1
 )
